@@ -3,7 +3,7 @@
 
 - 🌱 Estoy aprendiendo **React Js**
 
-- 🤝 Estoy buscando empleo como **jr como front end o ui designer**
+- 🤝 Estoy buscando empleo como **jr como front**
 
 - 📫 Contactane aqui: **https://www.linkedin.com/in/ayrtonartaza/**
 
