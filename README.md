@@ -7,7 +7,7 @@
 
 - 📫 Contactane aqui: **https://www.linkedin.com/in/ayrtonartaza/**
 
-- ⚡Tengo skills en: **html,css,sass,css frameworks como boostrap y tailwind css, javascript,ecmascript, git , github , ui design , figma , figma motion**
+- ⚡Tengo skills en: **html ,css ,sass ,boostrap ,tailwind css ,styled component, javascript ,ecmascript ,react js y git**
 
 
 <h3 align="left">Lenguajes y herramientas:</h3>
