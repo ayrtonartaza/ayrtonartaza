@@ -1,5 +1,5 @@
 <h1 align="center">Buenas 👋 Soy Ayrton Artaza</h1>
-<h3 align="center">Me decico al desarrollo front end con preferencia en React Js</h3>
+<h3 align="center">Me dedico al desarrollo front end con preferencia en React Js</h3>
 
 - 🌱 Estoy aprendiendo **React Js**
 
