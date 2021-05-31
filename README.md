@@ -3,7 +3,7 @@
 
 - 🌱 Estoy aprendiendo **React Js**
 
-- 🤝 Estoy buscando empleo como **jr como front**
+- 🤝 Estoy buscando empleo como **front end**
 
 - 📫 Contactane aqui: **https://www.linkedin.com/in/ayrtonartaza/**
 
