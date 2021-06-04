@@ -1,13 +1,13 @@
 <h1 align="center">Buenas 👋 Soy Ayrton Artaza</h1>
-<h3 align="center">Me dedico al desarrollo front end con preferencia en React Js</h3>
+<h3 align="center">Me dedico a presentar interfaces a traves tecnologias web del lado del front end
 
-- 🌱 Estoy aprendiendo **React Js** y  **Typescript**
+- 🌱 Estoy aprendiendo **React Js** ,**Typescript** y **Vue Js** 
 
-- 🤝 Estoy buscando empleo como **front end**
+- 🤝 Estoy buscando empleo como **front end developer**
 
 - 📫 Contactane aqui: **https://www.linkedin.com/in/ayrtonartaza/**
 
-- ⚡Tengo skills en: **html ,css ,sass ,boostrap ,tailwind css ,styled component, javascript ,ecmascript ,react js y git**
+- ⚡Tengo skills en: **html ,css ,sass ,boostrap ,tailwind css ,styled component, javascript ,ecmascript,typescript ,react js,vuejs y git**
 
 
 <h3 align="left">Lenguajes y herramientas:</h3>
