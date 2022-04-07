@@ -1,13 +1,13 @@
 <h1 align="center">Buenas 👋 Soy Ayrton Artaza</h1>
-<h3 align="center">Me dedico a presentar interfaces a traves tecnologias web del lado del front end
+<h3 align="center">Soy un diseñador ui que antes hacia front ed
 
-- 🌱 Estoy aprendiendo **React Js** ,**Typescript** y **Vue Js** 
+- 🌱 Sigo informandome y aprendiendo del front end para entender mejor el producto
 
-- 🤝 Estoy buscando empleo como **front end developer**
+- 🤝 Estoy buscando empleo como **ui designer**
 
 - 📫 Contactane aqui: **https://www.linkedin.com/in/ayrtonartaza/**
 
-- ⚡Tengo skills en: **html ,css ,sass ,boostrap ,tailwind css ,styled component, javascript ,ecmascript,typescript ,react js,vuejs y git**
+- ⚡Tengo skills en: diseño visual, arquitectura de informacion, userflow, prototyping, atomic design, componentes, accesibilidad, usabilidad.
 
 
 <h3 align="left">Lenguajes y herramientas:</h3>
